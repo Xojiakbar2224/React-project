@@ -1,0 +1,61 @@
+.modalContainer {
+    height: 100%;
+    margin: 0 auto;
+    background: linear-gradient(
+        180deg,
+        rgba(0, 41, 255, 0.02) 0%,
+        rgba(0, 41, 255, 0) 100%
+    );
+}
+
+.modalContainer form
+input{
+    padding: 0.5rem 1rem;
+}
+.modalContainer form label,
+input,
+textarea {
+    display: block;
+    width: 100%;
+}
+.modalContainer form ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.modalContainer form ul li {
+    padding: 0.3em;
+}
+.modalContainer form ul li label span {
+    font-weight: 700;
+    color: #102a43;
+    line-height: 35px;
+    line-height: 2.5rem;
+    font-size: 12px;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+.modalContainer form input[type="submit"] {
+    background: #fc4366;
+    color: white;
+    font-weight: 700;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    margin-top: 1.3em;
+}
+
+.modalContainer {
+    width: 400px;
+    margin:0 auto;
+}
+.modalContainer form {
+    background-color: #ffffff;
+    padding: 3rem 2rem;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+
+

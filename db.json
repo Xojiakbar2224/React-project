@@ -1,0 +1,402 @@
+{
+  "users": [
+    {
+      "name": "Suhrob",
+      "password": "123456",
+      "email": "xojiakbarabdumannonov2203@gmail.com",
+      "admin": "false",
+      "id": 1
+    },
+    {
+      "name": "Xojiakbar",
+      "password": "123123",
+      "email": "xojiakbarabdumannonov2203@gmail.com",
+      "admin": "true",
+      "id": 2
+    },
+    {
+      "name": "Abdulbosit",
+      "password": "123123",
+      "email": "akmdk@gmail.com",
+      "admin": false,
+      "id": 3
+    },
+    {
+      "name": "Jahongir",
+      "password": "12323",
+      "email": "asd@gmail.com",
+      "admin": false,
+      "user": "",
+      "id": 4
+    }
+  ],
+  "question": [
+    {
+      "title": "Abdumannonov X",
+      "query": "window.pageYOffsetwindow.pageYOffset",
+      "tags": " #java #js #react",
+      "viewsCount": 3,
+      "answerCounts": 0,
+      "user": "Xojiakbar",
+      "status": true,
+      "votes": 0,
+      "id": 1
+    },
+    {
+      "title": "Ex.2 Page-50",
+      "query": "window.pageYOffsetwindow.pageYOffsetwindow.pageYOffsetwindow.pageYOffsetwindow.pageYOffset",
+      "tags": " #java #js #react",
+      "viewsCount": 4,
+      "answerCounts": 0,
+      "user": "Xojiakbar",
+      "status": true,
+      "votes": 2,
+      "id": 2,
+      "LikedUser": "AbdulbositXojiakbar"
+    },
+    {
+      "title": "Vue Jsda qanday qilinadi shu narsa",
+      "query": "window.pageYOffset \n\nwindow.pageYOffset",
+      "tags": "adad",
+      "viewsCount": 4,
+      "answerCounts": 0,
+      "user": "Xojiakbar",
+      "status": true,
+      "votes": 3,
+      "id": 3,
+      "LikedUser": "undefinedSuhrobXojiakbar"
+    },
+    {
+      "title": "Vue Jsda qanday qilinadi shu narsa",
+      "query": "window.pageYOffsetwindow.pageYOffset",
+      "tags": " #java #js #react",
+      "viewsCount": 4,
+      "answerCounts": 0,
+      "user": "Xojiakbar",
+      "status": true,
+      "votes": 2,
+      "id": 4,
+      "LikedUser": "Abdulbosit"
+    },
+    {
+      "title": "Vue Jsda qanday qilinadi shu narsa         const [userName, setuserName] = React.useState('')",
+      "query": "window.pageYOffset kaadad",
+      "tags": "#Django",
+      "viewsCount": 11,
+      "answerCounts": 0,
+      "user": "Xojiakbar",
+      "status": true,
+      "votes": 6,
+      "id": 5,
+      "LikedUser": "Abdulbosit"
+    },
+    {
+      "title": "Abdumannonov X     const [userName, setuserName] = React.useState('')",
+      "query": "        // window.location.reload(false);        // window.location.reload(false);        // window.location.reload(false);",
+      "tags": " #react",
+      "viewsCount": 25,
+      "answerCounts": 0,
+      "user": "Xojiakbar",
+      "status": true,
+      "votes": 46,
+      "id": 6,
+      "LikedUser": "Abdulbosit"
+    },
+    {
+      "title": "Abdumannonov X",
+      "query": "dvdvdv",
+      "tags": "adad",
+      "viewsCount": 13,
+      "answerCounts": 1,
+      "user": "Xojiakbar",
+      "status": true,
+      "votes": 4,
+      "id": 7,
+      "LikedUser": "undefinedXojiakbarSuhrob"
+    },
+    {
+      "title": "mklmlmlk",
+      "query": "uhiuhihihihi",
+      "tags": " #react",
+      "viewsCount": 28,
+      "answerCounts": 1,
+      "votes": 7,
+      "user": "Xojiakbar",
+      "status": true,
+      "id": 8,
+      "LikedUser": "undefinedXojiakbarSuhrobXojiakbarXojiakbar"
+    },
+    {
+      "title": "Abdumannonov X",
+      "query": "                const img=docs[0].url && docs[0].url",
+      "tags": " #java #js #react",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Suhrob",
+      "status": false,
+      "id": 15
+    },
+    {
+      "title": "Ex.2 Page-50",
+      "query": " const url=URL.createObjectURL(selected)\n\n        console.log(url)\n\n        console.log(selected)\n\n          axios.post(\"http://127.0.0.1:8000/image/\",selected)\n\n          .then(res=>{\n\n              console.log(res.data)\n\n          })\n\n        ",
+      "tags": " #java #js #react",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Xojiakbar",
+      "status": false,
+      "id": 16
+    },
+    {
+      "title": "Abdumannonov X",
+      "query": "U",
+      "tags": " #java #js #react",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Xojiakbar",
+      "status": false,
+      "id": 17
+    },
+    {
+      "title": "Abdumannonov X",
+      "query": "Uadad",
+      "tags": " #java #js #react",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Xojiakbar",
+      "status": false,
+      "id": 18
+    },
+    {
+      "title": "Abdumannonov X",
+      "query": "aaaaaaaaaaaaaaaaaaaaa",
+      "tags": "aaaaaaaa",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Xojiakbar",
+      "status": false,
+      "id": 19
+    },
+    {
+      "title": "Abdumannonov X",
+      "query": "http://localhost:5000/question",
+      "tags": " #react",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Xojiakbar",
+      "status": false,
+      "id": 20
+    },
+    {
+      "title": "Abdumannonov X",
+      "query": "http://localhost:5000/question",
+      "tags": " #react",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Xojiakbar",
+      "status": false,
+      "id": 21
+    },
+    {
+      "title": "",
+      "query": "",
+      "tags": "",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Xojiakbar",
+      "status": false,
+      "id": 22
+    },
+    {
+      "title": "",
+      "query": "",
+      "tags": "",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Xojiakbar",
+      "status": false,
+      "id": 23
+    },
+    {
+      "title": "",
+      "query": "",
+      "tags": "",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Xojiakbar",
+      "status": false,
+      "id": 25
+    },
+    {
+      "title": "",
+      "query": "",
+      "tags": "",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Xojiakbar",
+      "status": false,
+      "id": 26
+    },
+    {
+      "title": "",
+      "query": "",
+      "tags": "",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Xojiakbar",
+      "status": false,
+      "id": 27
+    },
+    {
+      "title": "",
+      "query": "",
+      "tags": "",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": {},
+      "user": "Xojiakbar",
+      "status": true,
+      "id": 28
+    },
+    {
+      "title": "Abdumannonov X",
+      "query": "axios.get(\"http://127.0.0.1:8000/image/\")\n\n        .then(res=>{\n\n            const popFile=res.data.results.pop()\n\n            console.log(res.data.results)\n\n            console.log(popFile)\n\n        })",
+      "tags": " #js #react",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Xojiakbar",
+      "status": false,
+      "id": 29
+    },
+    {
+      "title": "adadad",
+      "query": "axios.get(\"http://127.0.0.1:8000/image/\")\n\n        .then(res=>{\n\n            const popFile=res.data.results.pop()\n\n            console.log(res.data.results)\n\n            console.log(\"adadad\",popFile)\n\n        })",
+      "tags": " #java #js #react",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Xojiakbar",
+      "status": false,
+      "custom-css-outlined-input": "d",
+      "id": 30
+    },
+    {
+      "title": "Abdumannonov X",
+      "query": "   <label>\n\n                            <input type=\"file\" name=\"image\" onChange={handleInputChange} />\n\n                            <span>+</span>\n\n                            <button onClick={onImageUpload}>UpLoadImg</button>\n\n                        </label>",
+      "tags": " #java #js #react",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Xojiakbar",
+      "status": false,
+      "id": 31
+    },
+    {
+      "title": "Abdumannonov X",
+      "query": "console.log(\"imageUrl\",imgUrl)",
+      "tags": " #java #js #react",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": "",
+      "user": "Xojiakbar",
+      "status": false,
+      "id": 32
+    },
+    {
+      "title": "Suhrob malikov",
+      "query": "console.log(\"imageUrl\",imgUrl)",
+      "tags": " #java #js #react",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "imageUrl": {},
+      "user": "Xojiakbar",
+      "status": false,
+      "id": 33
+    },
+    {
+      "title": "Abdumannonov X",
+      "query": "formik.values",
+      "tags": "formik.values",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "user": "Xojiakbar",
+      "status": false,
+      "imgUrl": {
+        "id": 21,
+        "image": "http://127.0.0.1:8000/media/252_XALPvzk.jpg",
+        "created_at": "2021-05-04T15:02:14.603606Z",
+        "updated_at": "2021-05-04T15:02:14.603606Z"
+      },
+      "id": 34
+    },
+    {
+      "title": "Abdumannonov X",
+      "query": "<label>\n\n                            <input type=\"file\" name=\"image\" onChange={handleInputChange} />\n\n                            <span>+</span>\n\n                            <button onClick={onImageUpload}>UpLoadImg</button>\n\n                        </label>",
+      "tags": " #java #js #react",
+      "viewsCount": 0,
+      "answerCounts": 0,
+      "votes": 0,
+      "user": "Xojiakbar",
+      "status": false,
+      "imgUrl": {
+        "id": 22,
+        "image": "http://127.0.0.1:8000/media/252_ACTIiB8.jpg",
+        "created_at": "2021-05-04T20:01:13.377800Z",
+        "updated_at": "2021-05-04T20:01:13.382805Z"
+      },
+      "id": 35
+    }
+  ],
+  "answer": [
+    {
+      "text": "alert(\"baholash uchun siz ro'yhatdan o'ting yoki saytga kiring\")  ",
+      "mark": false,
+      "users": "Xojiakbar",
+      "selectId": "8",
+      "id": 1
+    },
+    {
+      "text": "    const [imgUrl, setImgUrl] = React.useState({})\n\n    const [imgUrl, setImgUrl] = React.useState({})    const [imgUrl, setImgUrl] = React.useState({})    const [imgUrl, setImgUrl] = React.useState({})    const [imgUrl, setImgUrl] = React.useState({})    const [imgUrl, setImgUrl] = React.useState({})    const [imgUrl, setImgUrl] = React.useState({})    const [imgUrl, setImgUrl] = React.useState({})    const [imgUrl, setImgUrl] = React.useState({})    const [imgUrl, setImgUrl] = React.useState({})    const [imgUrl, setImgUrl] = React.useState({})    const [imgUrl, setImgUrl] = React.useState({})    const [imgUrl, setImgUrl] = React.useState({})",
+      "users": "Xojiakbar",
+      "selectId": "7",
+      "imgUrl": {
+        "id": 23,
+        "image": "http://127.0.0.1:8000/media/252_2w5grIQ.jpg",
+        "created_at": "2021-05-05T06:57:49.889856Z",
+        "updated_at": "2021-05-05T06:57:49.889856Z"
+      },
+      "id": 2
+    }
+  ]
+}
