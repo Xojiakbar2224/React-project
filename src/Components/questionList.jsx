@@ -14,7 +14,7 @@ const QuestionList = () => {
 
     const mystyle={
             width: "100%",
-            height:"700px",
+            height:"100vh",
             overflowX:"hidden",
             overflowY:"scroll"
         }
@@ -65,7 +65,6 @@ const QuestionList = () => {
               setstate(value)
         })
       }
-  
     return ( 
         <div className="container  mb-5">
             <div className="row mt-2">

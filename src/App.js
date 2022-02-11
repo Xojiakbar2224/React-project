@@ -13,7 +13,8 @@ import { useTranslation } from 'react-i18next';
 import Rules from "./Components/rule/rules";
 import UserList from "./Components/userList/userList";
 import Activity from "./Components/activities/activity";
-
+import WsChat from "./Components/wsChat";
+import Profile from "./Components/chat/Profile"
 const lngs = {
   uzb: { nativeName: 'Uzbek' },
   rus: { nativeName: 'Russian' },
@@ -37,6 +38,8 @@ const App=()=> {
           <Route exact path="/rule" component={Rules}/>
           <Route exact path="/userList" component={UserList}/>
           <Route exact path="/activity" component={Activity}/>
+          <Route exact path="/chat" component={WsChat}/>
+          <Route exact path="/profile" component={Profile}/>
       </Switch>
    </Router>
    

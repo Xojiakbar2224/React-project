@@ -38,9 +38,9 @@ const Navbar = () => {
                   <Trans i18nKey="navbar.link2">Savollar</Trans></span>
                </Link>
 
-               <Link to="/" className="nav-link  ">
+               <Link to="/chat" className="nav-link  ">
                    <span> <AiFillTag/>
-                   <Trans i18nKey="navbar.link3">Tegs</Trans>
+                   <Trans i18nKey="navbar.link3">Chat</Trans>
                   </span>
                </Link>
                
@@ -63,9 +63,9 @@ const Navbar = () => {
                </Link>
          </div>
             <div className="navbar "   >
-               <button  className="w-100 rounded border-0 overflow-hidden" onClick={showFunction}>
-                  <FaKey/>
-                  {(isUser && userName) ? userName : "Kirish"}
+               <button style={{padding:"10px"}} className="w-100 rounded border-0 overflow-hidden" onClick={showFunction}>
+                  <span style={{paddingRight:"5px"}} ><FaKey /></span>
+                  {(isUser && userName) ? userName : " Kirish"}
                </button>
             </div>                           
             <div className="navbar "   >

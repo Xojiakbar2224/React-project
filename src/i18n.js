@@ -22,7 +22,7 @@ i18n
               navbar: {
                 link1: 'Faolliklar',
                 link2: 'Savollar',
-                link3: "Teglar",
+                link3: "Chat",
                 link4: "Foydalanuvchilar",
                 link5: "Savol berish",
                 link6: "Qoidalar",
@@ -70,7 +70,7 @@ i18n
                 navbar: {
                     link1: 'Деятельность',
                     link2: 'Вопросов',
-                    link3: "Теги",
+                    link3: "Чат",
                     link4: "Пользователи",
                     link5: "вопрос",
                     link6: "Правила",
@@ -118,7 +118,7 @@ i18n
                 navbar: {
                     link1: 'Activities',
                     link2: 'Questions',
-                    link3: "Tags",
+                    link3: "Chat",
                     link4: "Users",
                     link5: "Ask a question",
                     link6: "Rules",

@@ -94,10 +94,13 @@ const validationSchema=yup.object({
             })
         }            
               useEffect(()=>{
-                getQuestionById()
-                getDataAnswer()
-                setStyleFunction()
+                getQuestionById();
+                getDataAnswer();
+                setStyleFunction();
               },[])
+
+      
+
         const handleClickLike=()=>{
           if(isUser){
           const payload={
@@ -110,9 +113,8 @@ const validationSchema=yup.object({
             const finish_result=res.data
               setstate(finish_result);
               setlike(!like);
-              alert("Siz like tugmasini bosdingiz tashakkur")
-              
-            }) 
+              alert("Siz like tugmasini bosdingiz tashakkur");
+              }) 
           }
         }
         const handleInputChange = (e) => {
@@ -217,16 +219,12 @@ const validationSchema=yup.object({
                                                       mode: "automatic",
                                                       callback: function(url) {
                                                           setTimeout(function() {
-                                                              // valid class list
                                                               var validClassList = ["style1", "style2"];
 
-                                                              // var linkElement = $(".ck.ck-content").find("a[href*='" + url + "']");
                                                               var content = document.querySelector(".ck.ck-content");
                                                               var linkElement = content && content.querySelector("a[href*='" + url + "']");
 
-                                                              // split the linked class in the current link
-                                                              // var splitClass = linkElement.attr("class").split(" ");
-                                                              var splitClass = linkElement && linkElement.getAttribute("class").split(" ");
+                                                             var splitClass = linkElement && linkElement.getAttribute("class").split(" ");
 
                                                               var commonClass =
                                                                   validClassList &&
@@ -309,13 +307,7 @@ const validationSchema=yup.object({
                                   <img src={item.imgUrl.image} width="50%" alt=""/>
                                   }
                                 </ToastBody>
-                                <ToastBody className="d-flex w-25 float-right" style={{justifyContent:"flex-end"}}>
-                                    <Tooltip className="mt-2" title="Spam">
-                                      <IconButton aria-label='delete'>
-                                        <DeleteIcon onClick={()=>{alert("Your request has been sent to the admin")}} color="secondary" />
-                                      </IconButton>
-                                    </Tooltip>
-                                </ToastBody>
+                               
                               </Toast>
                             </div> )
                             )} 
